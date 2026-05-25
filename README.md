@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vtechcode
-- 👀 I’m interested in ...machine learning, web development and iot
-- 🌱 I’m currently learning ...web development with python and javascript
+- 👀 I’m interested in ...IoT, Embedded systems and PCB design
 - 💞️ I’m looking to collaborate on ...any project
 - 📫 How to reach me ...victorwaburi@gmail.com
 
